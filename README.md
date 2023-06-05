@@ -1,5 +1,6 @@
 # GPCNDTA
 GPCNDTA: prediction of drug-target binding affinity through cross-attention networks augmented with graph features and pharmacophores
+
 1 System requirements:
 
 	Hardware requirements: 
