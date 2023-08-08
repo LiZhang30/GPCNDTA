@@ -1,0 +1,13 @@
+{
+    "drug_node_dim": 69,
+    "drug_edge_dim": 6,
+    "target_node_dim": 33,
+    "target_edge_dim": 3,
+    "pharmacophore_dim": 27,
+    "node_hidden_dim": 128,
+    "node_out_dim": 128,
+    "drug_vocab": 62,
+    "target_vocab": 25,
+    "dropout_ratio": 0.1, 
+    "regression_value_dim": 1
+}
